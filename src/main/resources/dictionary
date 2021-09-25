@@ -1,0 +1,25 @@
+A Suggested Model for Mobile Application
+Penetration Test Framework
+Berkecan ÖZGÜR
+Information Security Engineering
+Gazi University
+Ankara, Turkey
+
+Abstract— Today, along with technological developments,
+mobile devices are used in areas where personal data is
+important such as banking, social media and communication. It
+is very important for mobile device users whether applications
+developed for Android or IOS operating systems, contain
+malicious software or malicious code. To detect these types of
+weakness, security analysts run mobile penetration tests using
+analysis tools. While these analysis tools outperform each other
+in various areas, they lag behind each other in some areas, there
+is no model exists to gather these tools in a framework. Within
+the scope of the current model, we are aimed to present security
+analysis tools under one penetration testing framework to
+security analysts who make security analyzes of mobile
+applications by the advantage of fusion algorithm. With the
+suggested model, security analysts will be able to access the
+security analysis tools independently on the type of analysis also
+use advantage of fusion algorithm fed from analysis tools
+outputs.
